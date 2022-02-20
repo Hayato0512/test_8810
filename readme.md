@@ -22,3 +22,7 @@ so this line is branching, a.k.a kind of experimenting sentenses so , it should 
 #so this line is just assignin thURL (link to the remote repository) Origin.
 
 #git config --global user.name "Hayato" to be identified as Hayato when I make change to the remote repo
+
+
+##hey this is you know waht? I am making change to this on remote repo to practice pulling info to the local repo from remote. lets see if this sentense will be on the local repo too.
+>>>>>>> 8ed220306dffb36ebf1771a0f1148601334cbbaf
