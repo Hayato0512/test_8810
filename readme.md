@@ -20,3 +20,6 @@ so this line is branching, a.k.a kind of experimenting sentenses so , it should 
 
 #Ok, I think I want to merge this sentense, so lets try to marge again including this sentese to the master branch. dont screw it , you can do it.
 >>>>>>> newBranch
+
+
+##hey this is you know waht? I am making change to this on remote repo to practice pulling info to the local repo from remote. lets see if this sentense will be on the local repo too.
